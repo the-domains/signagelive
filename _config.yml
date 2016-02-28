@@ -1,7 +1,7 @@
-name: signagelive
+name: Signagelive
 favicon: null
-layout_spectrum: 0.9119404905941337
-typography_spectrum: 0.7573125201743096
+layout_spectrum: 1
+typography_spectrum: 0.7596
 title: Digital Signage Software as a Service Platform
 cta:
   domain: null
@@ -17,11 +17,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#A690A4'
-    - '#B68F9D'
-    - '#C8ACAB'
-    - '#FBB9BF'
-    - '#E376B7'
+    - '#503d2b'
+    - '#beb098'
+    - '#dfeefb'
+    - '#e54a34'
+    - '#3f78d2'
   brandStrength: 0.5608858042396605
   lightness: 0.21832311432808638
   saturation: 0.5680747954174876
