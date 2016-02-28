@@ -2,6 +2,7 @@ name: signagelive
 favicon: null
 layout_spectrum: 0.9119404905941337
 typography_spectrum: 0.7573125201743096
+title: Digital Signage Software as a Service Platform
 cta:
   domain: null
   bucket: null
